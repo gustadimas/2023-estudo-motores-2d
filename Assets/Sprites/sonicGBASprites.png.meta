@@ -1,0 +1,5094 @@
+fileFormatVersion: 2
+guid: 1aa45544175eda34bb9c59d0784212a3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonicGBASprites_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 330
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7c4761197afd41bc4e2c2258e441d
+      internalID: 1527821926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 330
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3547027e6fc2eb84ca08b173a5e70ed9
+      internalID: 753847351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 330
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfaf1af34356cc48af0b07c3aeeccd3
+      internalID: -440802232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 330
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1f83ac367599f43ace6b24779de9cb
+      internalID: -1676036274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 330
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aa2dba2380c7445b53a47cdd87d9c6
+      internalID: 2145532324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfde789200ec9f4fa19dcd65c122321
+      internalID: 145650437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 330
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb84def1bd76064eb5be1796075316b
+      internalID: 2042416089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 348
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68952fd09cf1ea4ba1b84b4aeb2ae52
+      internalID: -1266720505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 330
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7391730bc8488f144b571fcf23f1f059
+      internalID: 425776337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 348
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd59e954cc3f0440ae7012e14a00ff8
+      internalID: -932485554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 330
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8a3ec7cc274c14eb40a9d5488d663b
+      internalID: 1002770851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 330
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd13ba1c7fdc2048a629160789cace9
+      internalID: 701517990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 330
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4c47fab5f44ec4784279c610905afa
+      internalID: 1634013304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 330
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512cb39742d9f2a48975a62a650834a4
+      internalID: 1286697923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 330
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0ab086d8e2ec448828176062ea9c6b
+      internalID: 1742970967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 324
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2a3f68883c4a41bbcd665a2642d8f
+      internalID: -279600275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c301ffab4125bf4a8e474a5de4dca96
+      internalID: -216851245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 330
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b34c6596d4b59c45beed093c6c1b458
+      internalID: -1013847521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 330
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b9cc03ac4803f489a6d851da7afd42
+      internalID: 128756814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 330
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d4df77622e687488dad427d1ffce25
+      internalID: 1559794663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 268
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7ee4e43a0dd047a6b1fac5d012297
+      internalID: -1383057234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 268
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7405cb7393aa114d91eea8941a5ac27
+      internalID: 582132665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 268
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a812ef7566433524788434dd0193a45d
+      internalID: 1888059623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 268
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1c9e8054519e14f893f4ff01d56752
+      internalID: 2039593789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 268
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9186b4d225f54684f8def4225ab01726
+      internalID: -1194161167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 268
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58faf43dfb9f26e4a930de92cbf95792
+      internalID: 1068258800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 268
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41da1fdbb09d6cd43bfca3c18849d5a8
+      internalID: 1223428024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 268
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f60eef11d9c8ba49941e1f264b3d7ec
+      internalID: -186909139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 284
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9c36285874e2459ea14d740faf9e2
+      internalID: -1522476561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 268
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539c83794fd8a043a6129f739d733d1
+      internalID: 1897787488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 268
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77a228dfec91ce46993d8eaf0b11272
+      internalID: 1185195244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_31
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 268
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225744446f622524cb06d1e51cd6c420
+      internalID: -553775839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 268
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d16e136bc3d554f8fb0ac3657b7998
+      internalID: 849773362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 268
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b46f0fcb374cb428e693d7673adc74
+      internalID: -504848151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 225
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7059a8a3fa662824baadffd9e0c8406a
+      internalID: 209671309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bdb49d13949a4f91db073b2c8e111
+      internalID: -994440588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 225
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f35b8601c55054bb70eb81b039b2dc
+      internalID: -1494033991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 226
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca83c919f970484ab3381f9a90def2a
+      internalID: 1815705197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 225
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b54d865ef772342bf5c1c51d5d90d6
+      internalID: 1364023751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_39
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 224
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed220b78ece7cd48a09cbc677c15560
+      internalID: -580523745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 225
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7536fb3acc18b4998aa62aa0f7a6f3
+      internalID: 126778698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 225
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e7f53e62793784ca753af61bcf2f49
+      internalID: -1128656535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 245
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d7dbdb4040d134cac34dd1ba204351
+      internalID: -2075700088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_43
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 245
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f176060a4b2044b59c2fbaa8cc1d4
+      internalID: 1887396460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_44
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 245
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4239927597dff343b8130f0d2499bf5
+      internalID: -881801899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 245
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd20531d87dda548bc7eff26ef1d59f
+      internalID: 2043875118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_46
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 245
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1ef967c31481b48af20fe23c47f8b9
+      internalID: 523302249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 245
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deb3834c4079b94cb6739b739c9c7fd
+      internalID: -228697848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_48
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 245
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0efc86a88af414419f4efa3b81a79f4
+      internalID: 1729673212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 245
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c110a12a5353d542923a537cc8a5c78
+      internalID: -544989015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 245
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562b1e4b2a15644a8c400f90fd695c6
+      internalID: 61519597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 245
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06ad1c5cfa8524ca58af38fedbb25e
+      internalID: 1366101997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_52
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 245
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b797f820c1db4e8005d6087f1823c
+      internalID: -1093395593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_53
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 245
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de5623c0506eab4e8feb40d3fc46b9a
+      internalID: -494884675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_54
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 245
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f16cd8516a144fa7d65c3311dd57b
+      internalID: -1793647930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_55
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 245
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43baaa632272d384286e8e2c48a38c8a
+      internalID: 1379211352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 230
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8013937a69127e143831f06594df6441
+      internalID: 1551027176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_57
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fced758e67cd5447ac60c33ee0fe321
+      internalID: -1049954685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_58
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb179f379e53254ca3a8215ef2d78d7
+      internalID: 1882134955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 232
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f68786c577524fb281cc3f3249505
+      internalID: 1448365187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_60
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 232
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b7d8d6e9028740b30870be242eef4
+      internalID: -426450098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_61
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 232
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998fe0a5bc35764fa52ee98f02135e4
+      internalID: 874516495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_62
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 232
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04b98e3739988b4f84cde30969a18c6
+      internalID: -1000247473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_63
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 232
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1950e2ba46f74f8aa04540c77286b
+      internalID: 2076090509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_64
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 232
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c5b87bb8d89c4bb1792831bcd371c
+      internalID: 539012549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_65
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eb838feb2576e428deb91a1a806b2c
+      internalID: 855943043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 232
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e3f6a074dde34397bbf3cebc31da9
+      internalID: 982433540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 189
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb3458750a7d64e88c9cdf1fdd4360
+      internalID: 1254200946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 189
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04aa63d566c224c97403d0071d685c
+      internalID: 1629641714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 189
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881fc3a76a3c8564c9367ba71b727e44
+      internalID: 1626327251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_70
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 189
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892300a650da9a848afd590ddda040b1
+      internalID: 800581280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_71
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 191
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e4422bffe0ba642bf22b5683209042
+      internalID: 584596847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_72
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 191
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8376194e807f5c445b1fc261a1855bce
+      internalID: -445931909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 156
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593962bc05f083d40867442f4cf5d91a
+      internalID: -1411064403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1eee0a159537b4d8997bde22fffc4b
+      internalID: 1778548483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_75
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0d51fc3d76d524997713b5635e28c4
+      internalID: -1258655441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_76
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 157
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67438f1cd2165634fa5dafc8fcec88f1
+      internalID: -282022793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_77
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 158
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1102d818e5de84496e6834930aa86a
+      internalID: -1305861036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_78
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 158
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22864dc9ddcc264428a56a97951d4fc3
+      internalID: 1308129340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_79
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 158
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf352b4b213bc04185a1737b7b1e941
+      internalID: -1310644571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_80
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 158
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba67c1291ec1ed141aafdfa86d48004c
+      internalID: -2096994883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_81
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 158
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37f08f7149fa943bc86dd54ec2e0fd
+      internalID: -1069285821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_82
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 158
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b68a04602f59a345a08992c74af51e7
+      internalID: -721756207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_83
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 158
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d5e99aef3991742b0cec008c06cb2c
+      internalID: 1831556300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d021c4866b8b1194d9aaf07de92d9316
+      internalID: -999114456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 128
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1add1e8453ef61d4da280d21918be8f6
+      internalID: -1248487032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_86
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 128
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe1829c187762646bf7d23e1b3eb241
+      internalID: -863191545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_87
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 128
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74729dc3dc2eeb6469f89d10e55f6a91
+      internalID: 1842361846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_88
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 128
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90245f7e337925b46bf88ecab2cb9e34
+      internalID: -1118001805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396fb123142503f4da5aeba5581b0533
+      internalID: -948840846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_90
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 128
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db91d673d8cb65418e804253eed1143
+      internalID: -1819046219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 83
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0275f57bfc496d4a8a917fa36d686ed
+      internalID: -2054960256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_92
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 83
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c35dd8f5fcb211448580b80ee7fd491
+      internalID: -1205953288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_93
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 109
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d21fa61d406942be87e81b16b3d1f
+      internalID: 1254571497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_94
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 109
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0184e884060e56849b7aa65a2a4acbb4
+      internalID: -1067403113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3066880e8296b0f46b1a53153c4351fc
+      internalID: -870131022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_96
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc2aed764644fa4786459727daffe97
+      internalID: -826376334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_97
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 106
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a252c3ffe58104d86d4f6979b07e98
+      internalID: -547757427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_98
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 109
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc44776f6aed242800cc28429c18d6
+      internalID: -1493773155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_99
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 109
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67b7dffe220fdc4cb93382a5a9765e7
+      internalID: 905893445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_100
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e2e6f2cb6f08d4081f5e81ca816a0c
+      internalID: 1503811504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_101
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26839435f334f8c448fc1c46cd452fd0
+      internalID: -1623845603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_102
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 109
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e783fbb902e873d44b71319e16a87a4c
+      internalID: -1138052717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_103
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00332261e9594a540b93fa7282b5aa1f
+      internalID: 822936342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_104
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ea9de5a4b4e7449f155fb56b1e9b8
+      internalID: -895401079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_105
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 109
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95ec6014116808429ee1a33f22f27da
+      internalID: 429235907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_106
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 109
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a43fe1306c7144097c7a2e1f0c5bde
+      internalID: -1654054205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_107
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3da053e155b5545a714d605790b758
+      internalID: -2028370753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_108
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f12f7b01d49b4d9baef394e2f7c51
+      internalID: -274986008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_109
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05044e2e324a0146b58be01447e7014
+      internalID: 1251024061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_110
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 109
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd71b619d3c4143b3b450e12c30198
+      internalID: 1070905620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_111
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175db93b7e1a2bc4097bf7633f4ea5d2
+      internalID: -1635543703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_112
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06887cc8ff24b41aaea95225c3e025
+      internalID: -1308593237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_113
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 109
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b2ddca3fa7d31439466a7be8ccc5eb
+      internalID: -1519991989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_114
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaa38343d762bd4fb52b5fdbd69ddca
+      internalID: 1134422328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_115
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 109
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591bdf32983abce4fa48aae6bb0e0c66
+      internalID: 1679154448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_116
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 92
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427490b0dc0c0bd41b8b25dd755d3a5e
+      internalID: 1345220275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_117
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 92
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12be1eeba432114cbfb264252135b87
+      internalID: -515366560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 89
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6480afc7194024b4d904468c9171d31b
+      internalID: -1206629585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 92
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca531699e14be3e4999b70881782d345
+      internalID: -246415434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_120
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 92
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba687fc4c39f664785449080666c8bd
+      internalID: 2065432700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_121
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 89
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a91784835202144b678687e40710ea
+      internalID: -987445625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_122
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 92
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d1be922a70694498cf3320b85c8b07
+      internalID: 1122013403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_123
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 92
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe92d511985dd45bb25ddfff632da0
+      internalID: -1136639103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_124
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 92
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be892ae80f1e6484a99db40fb4a00fe0
+      internalID: -1608390210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 92
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413436038ed31834d9f39b50307757b1
+      internalID: 1373878894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_126
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 92
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b868626108a8ccc448e2797f90ac3b29
+      internalID: 305738386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_127
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 92
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e047d639246f4eaaf5cb01f8e070e
+      internalID: 501058071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_128
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 92
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e5efca22e65c4aa7773e5896b0b18
+      internalID: -925357372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_129
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 92
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e288c84ad02cc498bac67d21702002
+      internalID: -173271915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_130
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 89
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74456269c75d0ee469e98abcf85d1427
+      internalID: -1528173498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_131
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 92
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b13981d809f77419c9a713d5479c54
+      internalID: 901401323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_132
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 92
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee97f6b0e6fe21429a46b3c71026f93
+      internalID: -1906643992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_133
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 92
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc87a0edd26dd1d4ebcc0cd9bcdbf04a
+      internalID: -2086340343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_134
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 89
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84341212b608c15408ab4cfb2ed437c4
+      internalID: 857401817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_135
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 92
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a103f253e09294294080a4219ed2ab
+      internalID: -829205654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_136
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 90
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b8d15425d5d24991a1c9313c6d491
+      internalID: -374098664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_137
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1da64ff5c9e4c49951c71c4fd4d90e
+      internalID: 667064969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_138
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd4dc1f28b5f04ea1bac34f74f765a
+      internalID: -1450577206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_139
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 46
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2935743e26f884bb405d821e3f0eb2
+      internalID: 439020816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_140
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24ff3abbdb8614089402395d3c7530
+      internalID: -465298850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_141
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 46
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2602a5473257ad0438b2093f272291dd
+      internalID: -508021700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_142
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 45
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98095610861fa04ea2c73a2a28757c6
+      internalID: -179997312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_143
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 72
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e978aa9f2da45d469ca40b70afcff3e
+      internalID: -658925402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_144
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 75
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7cfe229f6e3ec459180a82ae1cc075
+      internalID: 1032111244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_145
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e138950bd7d63144dacbd5fe1344b8b2
+      internalID: 1968999259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_146
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 72
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2f0b3d847664e409b7a2a3d7b78b55
+      internalID: -2086773486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_147
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde35d6b8bfcf848ad99975b572f3ef
+      internalID: -998856165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_148
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 72
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451db230e20df8c498616cc30dc15e79
+      internalID: 2084533695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_149
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 58
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf87b8d75bde946b4f819244ae6309
+      internalID: -2048906661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d4529cee4f7b4da94dfebad8a1b40
+      internalID: -1724713330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_151
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 58
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420ba862aa62ab64fbeba6c0d299b175
+      internalID: -1487863896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_152
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 58
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834d303f28cf7054daa05b90aacf2b59
+      internalID: 409109529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_153
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791dec4f6d35f6a458223020160c42a3
+      internalID: -1715295411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_154
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d7f12f76631224591269077e07af41
+      internalID: 2131413735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_155
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3086c2d287f33af41b28775b5b396032
+      internalID: -85806513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_156
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d45d8547d2dd984e82e0320c0b3bae3
+      internalID: -107073531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_157
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ead1088e9ddd4280710da948785bb
+      internalID: -1397874713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_158
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68e25d9f5f2c2c499e0534c5038d13c
+      internalID: 82758661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_159
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6be9ad6ebdd749a035779c6cc65cf
+      internalID: -239546611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_160
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 58
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22cb015474deff4496dce0c4b331fc1
+      internalID: 1670670779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_161
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed2c69d0fec02b428e9ad37f17729bb
+      internalID: 291913282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_162
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5999f6dd972525449b4a54e911812c9
+      internalID: -154184785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_163
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b30abe18a1aa4fad0c6c4867d4afa
+      internalID: -1224938310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_164
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 58
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c243fb84ee66640af4e3e09eb46179
+      internalID: 821037159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_165
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdcd7c9409935d4b90074b194985140
+      internalID: -1084990214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_166
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e5341802803364e82259e075f52040
+      internalID: -1826168136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 58
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88509ebb3cbe80d44bb643e0a0c09636
+      internalID: -199873835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_168
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf19e4d94d82a5c479a6a3402c4eeac1
+      internalID: 679309729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_169
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 41
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3570da8a4380f7748bd7e5739b7f0d4b
+      internalID: -1577935318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_170
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140edab7e50dace488bb8e4005d66013
+      internalID: -506585693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_171
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 41
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bda29c234e01914ba2c417348a8c6fd
+      internalID: 2123087240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_172
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 41
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9778f3e9b73c22246b9de2bf759025a0
+      internalID: 1353002343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_173
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb1e90f6e9e09438d038ab4284e322
+      internalID: -183232625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_174
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc897fa3c25462d48a1cff789293aeab
+      internalID: -1694390596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_175
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f882aa282ed69c344b35f0b746205a22
+      internalID: -812738783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_176
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 41
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c44c1bbc9643154c94431ba460d996b
+      internalID: -1839473638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_177
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 41
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38df5e23c2f45144ca90d4c6041b0a94
+      internalID: 439500935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_178
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae47bc9df56b3f4ca56b5c03cad0321
+      internalID: -1030458109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_179
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 38
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f3e6504ffe2564398fca8e74e01393
+      internalID: 298130081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_180
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66232bd3749b436408e5feec29f9c672
+      internalID: -1101975741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_181
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 41
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d301e0e60277404cbd43e47428da947
+      internalID: -1602994481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_182
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0355aa5e1f30f438704e35a5036922
+      internalID: 1840826245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_183
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 39
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc528c109c16645929c5daf469952d
+      internalID: 2120764645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_184
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 41
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a773b33b7bddd3147a3627d197b38ff2
+      internalID: -1076458537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_185
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5943ebab62c814fb3d2fd6ee45e44d
+      internalID: 1131248850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_186
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 41
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d19a08f59b33f4e83ba9254750a27b
+      internalID: 1131574648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_187
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 19
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd98dd7c03d3de459b33268756a0b38
+      internalID: -428023076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_188
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 19
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0d6c22223ca874c969255f1663feca
+      internalID: 2044395673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_189
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 19
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6caa90462e2f3544b36cb629293a4a2
+      internalID: 291113560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_190
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 17
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2bb3e29faa854419f29e4d87c17bfa
+      internalID: 663654111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_191
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 17
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc62898b7319f642a776931de2240bd
+      internalID: -261309078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_192
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ef26bc6ff38a843847070c5399e1aa
+      internalID: -650603588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_193
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 24
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23864be3f45a1564eaff1211a450dab2
+      internalID: 151325609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_194
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 24
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676b4e390e00ed42b42d386d5b52186
+      internalID: 180659803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_195
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 24
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515a6d743959f2148b8c79154e026703
+      internalID: -1277534498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_196
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 24
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2656203503168e845b65aa546f0693a5
+      internalID: 918530045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_197
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 24
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dd370365ac07242bfcfe8038f10842
+      internalID: -763237259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_198
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3f0edbee24da42ae8daa2e074af85
+      internalID: -1538464602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_199
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 24
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da236955f5e68954496b6b5cb7be9f4c
+      internalID: 2101647737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_200
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c64cac00607884bbf6736cdd53f086
+      internalID: 1551832056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_201
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 24
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a946ab2ea43a31041b13f7ecbdab3c81
+      internalID: -320759762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_202
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 24
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa574cf5819e1f459136948f764395a
+      internalID: -806370494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_203
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd0569dc6d58548a086161b46da380
+      internalID: 1471436887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_204
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd7d879b990dd449f0f7b98f444044
+      internalID: -183939752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_205
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eda8d71f4b2a1844a9527c6e89f8e63
+      internalID: 313838495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_206
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1b9b507842564a955df6fafbe6070
+      internalID: -240396159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_207
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 24
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8eccc0faa5524b9a1c5636a071954
+      internalID: 1684754901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_208
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 24
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa7d8fd58fe6d243a1e7df056af13fc
+      internalID: -986995996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_209
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 24
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b42bc67f47aaf488adec15c150b321
+      internalID: -1745124298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_210
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 24
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a5112a4943753409db790abb4a7b32
+      internalID: -1112352943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_211
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 24
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e5a33401fc3fe42abee9ecd47f6264
+      internalID: 264140055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_212
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b17a6bea14be2479bf54f15b610026
+      internalID: 1539744581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_213
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f620f8edef3dfa84f8e3181de1cfe6ee
+      internalID: 397747360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_214
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b1b3878ed8cc147bce021a548248be
+      internalID: 801102063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_215
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb245342c0f7b4ea0ea56d72bbc8d4
+      internalID: 582112279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_216
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72d9498926f11b42a27332947eae23b
+      internalID: -1071061128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_217
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 7
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176c5975247e2f41a4690a29a4cb300
+      internalID: -202109254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_218
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462371128eacb04095db43d9d7f4013
+      internalID: -1545199737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_219
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801fa7b243d88534ea5ab67b2ab2abbd
+      internalID: -1560619592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_220
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10911f8121c33e5408fd3007463e8497
+      internalID: -832877805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_221
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ac4e2666a5c74b93c28808e4ea821
+      internalID: 829505387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_222
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0070e28e1fea7ff48b879129c32e8d1c
+      internalID: 408285181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_223
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101a097575f2054c8bf99710a0d57ec
+      internalID: 2093445110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_224
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2b134e00a0c8d4687237c2866f5961
+      internalID: -1383889413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicGBASprites_225
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dfe35576662c140826f4f2d6d2c916
+      internalID: 819086356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sonicGBASprites_69: 1626327251
+      sonicGBASprites_186: 1131574648
+      sonicGBASprites_25: 1068258800
+      sonicGBASprites_154: 2131413735
+      sonicGBASprites_219: -1560619592
+      sonicGBASprites_36: -1494033991
+      sonicGBASprites_37: 1815705197
+      sonicGBASprites_28: -1522476561
+      sonicGBASprites_109: 1251024061
+      sonicGBASprites_104: -895401079
+      sonicGBASprites_163: -1224938310
+      sonicGBASprites_190: 663654111
+      sonicGBASprites_195: -1277534498
+      sonicGBASprites_119: -246415434
+      sonicGBASprites_133: -2086340343
+      sonicGBASprites_142: -179997312
+      sonicGBASprites_32: 849773362
+      sonicGBASprites_125: 1373878894
+      sonicGBASprites_74: 1778548483
+      sonicGBASprites_166: -1826168136
+      sonicGBASprites_57: -1049954685
+      sonicGBASprites_100: 1503811504
+      sonicGBASprites_126: 305738386
+      sonicGBASprites_127: 501058071
+      sonicGBASprites_135: -829205654
+      sonicGBASprites_17: -1013847521
+      sonicGBASprites_169: -1577935318
+      sonicGBASprites_175: -812738783
+      sonicGBASprites_116: 1345220275
+      sonicGBASprites_77: -1305861036
+      sonicGBASprites_138: -1450577206
+      sonicGBASprites_210: -1112352943
+      sonicGBASprites_170: -506585693
+      sonicGBASprites_76: -282022793
+      sonicGBASprites_130: -1528173498
+      sonicGBASprites_48: 1729673212
+      sonicGBASprites_202: -806370494
+      sonicGBASprites_3: -1676036274
+      sonicGBASprites_215: 582112279
+      sonicGBASprites_216: -1071061128
+      sonicGBASprites_185: 1131248850
+      sonicGBASprites_107: -2028370753
+      sonicGBASprites_140: -465298850
+      sonicGBASprites_122: 1122013403
+      sonicGBASprites_167: -199873835
+      sonicGBASprites_7: -1266720505
+      sonicGBASprites_21: 582132665
+      sonicGBASprites_96: -826376334
+      sonicGBASprites_51: 1366101997
+      sonicGBASprites_180: -1101975741
+      sonicGBASprites_132: -1906643992
+      sonicGBASprites_117: -515366560
+      sonicGBASprites_213: 397747360
+      sonicGBASprites_113: -1519991989
+      sonicGBASprites_214: 801102063
+      sonicGBASprites_217: -202109254
+      sonicGBASprites_33: -504848151
+      sonicGBASprites_71: 584596847
+      sonicGBASprites_12: 1634013304
+      sonicGBASprites_193: 151325609
+      sonicGBASprites_79: -1310644571
+      sonicGBASprites_4: 2145532324
+      sonicGBASprites_206: -240396159
+      sonicGBASprites_15: -279600275
+      sonicGBASprites_29: 1897787488
+      sonicGBASprites_2: -440802232
+      sonicGBASprites_58: 1882134955
+      sonicGBASprites_65: 855943043
+      sonicGBASprites_221: 829505387
+      sonicGBASprites_53: -494884675
+      sonicGBASprites_34: 209671309
+      sonicGBASprites_150: -1724713330
+      sonicGBASprites_80: -2096994883
+      sonicGBASprites_203: 1471436887
+      sonicGBASprites_35: -994440588
+      sonicGBASprites_179: 298130081
+      sonicGBASprites_19: 1559794663
+      sonicGBASprites_128: -925357372
+      sonicGBASprites_93: 1254571497
+      sonicGBASprites_46: 523302249
+      sonicGBASprites_44: -881801899
+      sonicGBASprites_165: -1084990214
+      sonicGBASprites_198: -1538464602
+      sonicGBASprites_209: -1745124298
+      sonicGBASprites_220: -832877805
+      sonicGBASprites_88: -1118001805
+      sonicGBASprites_160: 1670670779
+      sonicGBASprites_98: -1493773155
+      sonicGBASprites_87: 1842361846
+      sonicGBASprites_40: 126778698
+      sonicGBASprites_43: 1887396460
+      sonicGBASprites_9: -932485554
+      sonicGBASprites_201: -320759762
+      sonicGBASprites_110: 1070905620
+      sonicGBASprites_189: 291113560
+      sonicGBASprites_208: -986995996
+      sonicGBASprites_146: -2086773486
+      sonicGBASprites_10: 1002770851
+      sonicGBASprites_123: -1136639103
+      sonicGBASprites_42: -2075700088
+      sonicGBASprites_27: -186909139
+      sonicGBASprites_91: -2054960256
+      sonicGBASprites_89: -948840846
+      sonicGBASprites_225: 819086356
+      sonicGBASprites_22: 1888059623
+      sonicGBASprites_18: 128756814
+      sonicGBASprites_39: -580523745
+      sonicGBASprites_120: 2065432700
+      sonicGBASprites_149: -2048906661
+      sonicGBASprites_173: -183232625
+      sonicGBASprites_192: -650603588
+      sonicGBASprites_6: 2042416089
+      sonicGBASprites_181: -1602994481
+      sonicGBASprites_75: -1258655441
+      sonicGBASprites_143: -658925402
+      sonicGBASprites_153: -1715295411
+      sonicGBASprites_66: 982433540
+      sonicGBASprites_136: -374098664
+      sonicGBASprites_162: -154184785
+      sonicGBASprites_168: 679309729
+      sonicGBASprites_207: 1684754901
+      sonicGBASprites_102: -1138052717
+      sonicGBASprites_101: -1623845603
+      sonicGBASprites_64: 539012549
+      sonicGBASprites_61: 874516495
+      sonicGBASprites_131: 901401323
+      sonicGBASprites_144: 1032111244
+      sonicGBASprites_92: -1205953288
+      sonicGBASprites_97: -547757427
+      sonicGBASprites_99: 905893445
+      sonicGBASprites_197: -763237259
+      sonicGBASprites_200: 1551832056
+      sonicGBASprites_155: -85806513
+      sonicGBASprites_121: -987445625
+      sonicGBASprites_54: -1793647930
+      sonicGBASprites_49: -544989015
+      sonicGBASprites_11: 701517990
+      sonicGBASprites_70: 800581280
+      sonicGBASprites_55: 1379211352
+      sonicGBASprites_56: 1551027176
+      sonicGBASprites_78: 1308129340
+      sonicGBASprites_13: 1286697923
+      sonicGBASprites_41: -1128656535
+      sonicGBASprites_23: 2039593789
+      sonicGBASprites_38: 1364023751
+      sonicGBASprites_182: 1840826245
+      sonicGBASprites_187: -428023076
+      sonicGBASprites_157: -1397874713
+      sonicGBASprites_183: 2120764645
+      sonicGBASprites_82: -721756207
+      sonicGBASprites_8: 425776337
+      sonicGBASprites_106: -1654054205
+      sonicGBASprites_211: 264140055
+      sonicGBASprites_108: -274986008
+      sonicGBASprites_103: 822936342
+      sonicGBASprites_158: 82758661
+      sonicGBASprites_152: 409109529
+      sonicGBASprites_90: -1819046219
+      sonicGBASprites_16: -216851245
+      sonicGBASprites_223: 2093445110
+      sonicGBASprites_171: 2123087240
+      sonicGBASprites_85: -1248487032
+      sonicGBASprites_45: 2043875118
+      sonicGBASprites_72: -445931909
+      sonicGBASprites_222: 408285181
+      sonicGBASprites_145: 1968999259
+      sonicGBASprites_174: -1694390596
+      sonicGBASprites_124: -1608390210
+      sonicGBASprites_24: -1194161167
+      sonicGBASprites_59: 1448365187
+      sonicGBASprites_20: -1383057234
+      sonicGBASprites_52: -1093395593
+      sonicGBASprites_105: 429235907
+      sonicGBASprites_86: -863191545
+      sonicGBASprites_5: 145650437
+      sonicGBASprites_60: -426450098
+      sonicGBASprites_212: 1539744581
+      sonicGBASprites_67: 1254200946
+      sonicGBASprites_111: -1635543703
+      sonicGBASprites_73: -1411064403
+      sonicGBASprites_30: 1185195244
+      sonicGBASprites_129: -173271915
+      sonicGBASprites_205: 313838495
+      sonicGBASprites_172: 1353002343
+      sonicGBASprites_194: 180659803
+      sonicGBASprites_84: -999114456
+      sonicGBASprites_156: -107073531
+      sonicGBASprites_14: 1742970967
+      sonicGBASprites_50: 61519597
+      sonicGBASprites_199: 2101647737
+      sonicGBASprites_176: -1839473638
+      sonicGBASprites_137: 667064969
+      sonicGBASprites_26: 1223428024
+      sonicGBASprites_83: 1831556300
+      sonicGBASprites_159: -239546611
+      sonicGBASprites_178: -1030458109
+      sonicGBASprites_47: -228697848
+      sonicGBASprites_148: 2084533695
+      sonicGBASprites_164: 821037159
+      sonicGBASprites_114: 1134422328
+      sonicGBASprites_118: -1206629585
+      sonicGBASprites_151: -1487863896
+      sonicGBASprites_204: -183939752
+      sonicGBASprites_95: -870131022
+      sonicGBASprites_141: -508021700
+      sonicGBASprites_0: 1527821926
+      sonicGBASprites_31: -553775839
+      sonicGBASprites_115: 1679154448
+      sonicGBASprites_147: -998856165
+      sonicGBASprites_112: -1308593237
+      sonicGBASprites_1: 753847351
+      sonicGBASprites_63: 2076090509
+      sonicGBASprites_62: -1000247473
+      sonicGBASprites_196: 918530045
+      sonicGBASprites_81: -1069285821
+      sonicGBASprites_218: -1545199737
+      sonicGBASprites_139: 439020816
+      sonicGBASprites_161: 291913282
+      sonicGBASprites_177: 439500935
+      sonicGBASprites_184: -1076458537
+      sonicGBASprites_94: -1067403113
+      sonicGBASprites_188: 2044395673
+      sonicGBASprites_134: 857401817
+      sonicGBASprites_191: -261309078
+      sonicGBASprites_224: -1383889413
+      sonicGBASprites_68: 1629641714
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
